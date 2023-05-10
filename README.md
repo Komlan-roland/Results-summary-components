@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [results component](https://www.frontendmentor.io/solutions/results-summary-component-lIPHyQK6kC)
-- Live Site URL: [Live site URL](https://component-result.netlify.app/)
+- Solution URL: [frontend mentor](https://www.frontendmentor.io/solutions/results-summary-component-lIPHyQK6kC)
+- Live Site URL: [results component](https://component-result.netlify.app/)
 
 ## My process
 
