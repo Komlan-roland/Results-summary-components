@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend](https://www.frontendmentor.io/solutions/results-summary-component-lIPHyQK6kC)
+- Solution URL: [results component](https://www.frontendmentor.io/solutions/results-summary-component-lIPHyQK6kC)
 - Live Site URL: [Live site URL](https://component-result.netlify.app/)
 
 ## My process
